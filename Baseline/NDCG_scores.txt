@@ -1,0 +1,3 @@
+search_NDCG: 0.384039
+category_NDCG: 0.343258
+avg_NDCG: 0.351414
