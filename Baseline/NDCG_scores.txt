@@ -1,2 +1,0 @@
-search_NDCG: 0
-category_NDCG: 0
