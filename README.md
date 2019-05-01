@@ -4,6 +4,6 @@ You can find some source files here in the google drive
 https://drive.google.com/drive/folders/1-zf61quWv44D0_WIWmetzwza6Ltp_krD?usp=sharing
 
 You can find the GAE code zipped here: 
-
+CSCE-670---COURSE-PROJECT/src/Graph Embedding/gae/
 
 Please note and see the pickle objects from the folder for easy use
