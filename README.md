@@ -1,9 +1,9 @@
-# CSCE-670---COURSE-PROJECT
+#CSCE-670---COURSE-PROJECT : PERSONALIZED SEARCH RANKING (USING GAE BASED GRAPH EMBEDDINGS)
 
-You can find some source files here in the google drive
-https://drive.google.com/drive/folders/1-zf61quWv44D0_WIWmetzwza6Ltp_krD?usp=sharing
+#ABOUT 
+With the rapid growth of the amount of information on the Internet, it has become important to  help users alleviate the problem of information overload and select interesting and necessary information in web applications including web search, ecommerce search etc. We aim at providing improved Personalized search results to each user based on their activity and other similar users activity by leveraging the recent advances in graph embedding techniques to exploit graph structured data for automatic feature extraction.
 
-You can find the GAE code zipped here: 
-CSCE-670---COURSE-PROJECT/src/Graph Embedding/gae/
-
-Please note and see the pickle objects from the folder for easy use
+#ADDITIONAL SOURCE FILES
+Please find additional source files(>100MB) here in the google drive
+https://drive.google.com/open?id=1XipXeky6iFaa8uyhDxmjXA_Hd1K8nrnB
+Please note and see the pickle objects,various re-ranked submission files for NDCG Evaluation from the folder for easy use. 
