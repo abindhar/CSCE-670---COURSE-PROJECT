@@ -9,3 +9,10 @@ With the rapid growth of the amount of information on the Internet, it has becom
 Please find additional source files(>100MB) here in the google drive
 https://drive.google.com/open?id=1XipXeky6iFaa8uyhDxmjXA_Hd1K8nrnB
 Please note and see the pickle objects,various re-ranked submission files for NDCG Evaluation from the folder for easy use. 
+
+**TEAM MEMEBERS**
+
+(1) SRIVIDHYA BALAJI
+(2) ASHWIN KRISHNA
+(3) ABINDU DHAR
+(4) RISHABH SINGLA
